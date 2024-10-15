@@ -16,7 +16,7 @@ To set up the Vehicle Builder application on your local machine, follow these st
 
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/skylark-shae/09-Servers-and-APIs
 
 2. **Navigate to the Project Directory**: Change into the project directory:
    ```bash
