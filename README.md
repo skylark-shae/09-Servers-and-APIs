@@ -20,7 +20,7 @@ To set up the Vehicle Builder application on your local machine, follow these st
 
 2. **Navigate to the Project Directory**: Change into the project directory:
    ```bash
-   cd 08-TypeScript-and-OOP\02-Challenge\Develop
+   cd <file containing repo>
 
 3. **Install Dependancies**: Install the required dependencies using npm:
    ```bash
