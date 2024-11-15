@@ -12,7 +12,7 @@ A simple weather search application that allows users to search for weather info
 - [License](#license)
 
 ## Installation
-To set up the Vehicle Builder application on your local machine, follow these steps:
+To set up the application on your local machine, follow these steps:
 
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine.
    ```bash
